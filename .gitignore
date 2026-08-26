@@ -7,3 +7,4 @@ venv/
 *.xls
 *.csv
 .DS_Store
+.claude/
